@@ -169,9 +169,7 @@ function App() {
               <Menu size={24} />
             </button>
             <div className="flex items-center gap-2">
-              <div className="bg-gradient-to-tr from-teal-500 to-emerald-400 p-2 rounded-lg text-white">
-                <Sparkles size={20} fill="currentColor" className="text-white/90" />
-              </div>
+              <img src="/logo.png" alt="Pigeonic" className="w-8 h-8" />
               <h1 className="text-xl font-bold bg-gradient-to-r from-slate-800 to-slate-600 bg-clip-text text-transparent hidden sm:block">
                 বাংলা চ্যাটবট
               </h1>
