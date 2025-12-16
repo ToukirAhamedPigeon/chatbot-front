@@ -1,0 +1,7 @@
+{
+  "name": "Bangla RAG Chatbot",
+  "description": "A responsive, interactive chatbot interface for Bangla RAG applications with topic selection and difficulty filtering.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
